@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: This is the personal homepage of Jose Rios, an 2nd year MJSP student in Japan.
+description: Here you will find updates to my work, snippets of relevant information, and whatever else.
+plugins:
+  - jemoji
+url: "https://DeepestFour.github.io/"
+markdown: kramdown
