@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: This is the personal homepage of Jose Rios, an 2nd-year MJSP student in Hokkaido, Japan.
-description: Here you will find updates to my work, snippets of relevant information, and whatever else.
+title: This is the personal homepage of Jose Rios, an 2nd-year Modern Japanese Studies Program student in Hokkaido, Japan.
+description: Here you will find updates to my work, snippets of relevant information, and whatever else I decide to upload. 
 plugins:
  - jemoji
 url: "https://deepestfour.github.io/"
